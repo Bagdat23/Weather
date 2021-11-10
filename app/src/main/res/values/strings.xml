@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bagaaga</string>
+    <string name="text">Погода в вашем городе</string>
+    <string name="hint_user">Введите название города</string>
+    <string name="button">Узнать ответ</string>
+    <string name="no_user_input">Введите текст</string>
+</resources>
